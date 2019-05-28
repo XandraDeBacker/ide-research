@@ -36,6 +36,6 @@
 - non found
 - non found
 
- [Link to Atom] (https://atom.io/)
+ [Link to Atom](https://atom.io/)
  
  Tne number one reason why I've chosen for Atom is because it starts with a tutorial, being userfriendly for beginners. 
